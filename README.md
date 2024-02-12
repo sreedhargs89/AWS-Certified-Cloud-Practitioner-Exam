@@ -34,5 +34,3 @@ The preparation timeline is divided into five weeks, with specific action steps 
 - [Practice Exams](https://aws.amazon.com/certification/certification-prep/)
 - [Flashcards](https://quizlet.com/subject/aws-certified-cloud-practitioner/)
 
-## License
-This guide is provided under the [MIT License](LICENSE).
