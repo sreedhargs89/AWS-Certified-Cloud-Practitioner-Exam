@@ -1,9 +1,10 @@
 # AWS Certified Cloud Practitioner Exam Preparation Guide
 
 ## Overview
-This guide provides a detailed timeline and action steps to help individuals prepare effectively for the AWS Certified Cloud Practitioner exam. Follow these steps to ensure thorough preparation and increase your chances of success on the exam.
+Welcome to your journey to learn AWS! This guide is designed to help you start with the AWS Certified Cloud Practitioner (CCP) exam. While we won't be taking the real exam right away, we'll focus on practicing with at least 10 mock papers to build a strong foundation. As you progress, you can consider advancing to higher-level exams.
 
-## Detailed Timeline
+This guide includes a detailed timeline to keep you accountable and on track throughout your preparation journey.
+
 The preparation timeline is divided into five weeks, with specific action steps outlined for each day.
 
 | **Week** | **Date**    | **Day** | **Action Steps**                                                                                     | **Learning Resources**                                                                                   |
